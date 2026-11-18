@@ -1,0 +1,11 @@
+# Secrets — never commit
+.env
+
+# Local state and logs
+.last_reminder_gw
+reminder.log
+
+# Python
+venv/
+__pycache__/
+*.pyc
